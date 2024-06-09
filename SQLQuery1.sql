@@ -100,4 +100,4 @@ AS
 BEGIN
     SELECT POWER(@base, @exponent) AS Result
 END
-GO
+GO 
